@@ -51,7 +51,7 @@ The dataset used in this project is included in the repository. It contains mult
 
 ## Exploratory Data Analysis
 EDA is performed to understand the dataset better and to identify any patterns or relationships between features. Below is the correlation heatmap for the features:
-<img alt="Correlation Heatmap" src="C:\Users\Lenovo\Desktop\correlation.png">
+<img alt="Correlation Heatmap" src="https://github.com/nijatzv/Parkinsons-Disease-Prediction-PlacementDost/blob/main/correlation.png">
 
 ## Model Training
 Several machine learning models are trained and evaluated to find the best model for predicting Parkinson's Disease. The models include:
